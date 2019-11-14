@@ -1,3 +1,5 @@
+# Задание по программированию: Декоратор to_json
+
 from json import dumps
 from functools import wraps
 
