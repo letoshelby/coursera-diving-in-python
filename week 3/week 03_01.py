@@ -1,5 +1,8 @@
+# Задание по программированию: Классы и наследование
+
 import csv
 import os.path
+
 
 TYPE_CAR = 'car'
 TYPE_TRUCK = 'truck'
