@@ -1,3 +1,5 @@
+# Задание по программированию: Key-value хранилище
+
 import os
 import tempfile
 import argparse
