@@ -1,3 +1,5 @@
+# Задание по программированию: Дескриптор с комиссией
+
 class Value:
 
 	def __get__(self, instance, owner):
